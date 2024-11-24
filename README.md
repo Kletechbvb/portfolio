@@ -1,5 +1,3 @@
-# Portfolio
-
 ### Hello, I'm Suleman Mullur 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
